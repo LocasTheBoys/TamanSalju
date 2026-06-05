@@ -57,7 +57,7 @@ local ReplayConfig = {
     ClickVerifyT    = 0.8,             -- detik. Setelah klik Play Again, tunggu segini lalu cek apakah GameEnd benar-benar hilang.
           
     RandomnessEnabled  = true,         -- true = aktifkan fitur random. false = ronde normal terus, TargetDif dipakai semua.
-    RandomnessInterval = 5,            -- jumlah gameplay. 5 = tiap kelipatan 5 (game ke-5, 10, ...) difficulty di-random. Isi 1 = setiap game random. 
+    RandomnessInterval = 10,            -- jumlah gameplay. 5 = tiap kelipatan 5 (game ke-5, 10, ...) difficulty di-random. Isi 1 = setiap game random. 
     RandomnessPool     = {             -- List difficulty yang BOLEH dipakai saat ronde random. Edit sesuai selera.
         --"dif_easy",                    --   easy        | mode termudah
         --"dif_normal",                  --   normal      | mode standar
