@@ -1,3 +1,4 @@
+--Versi hampir work minus di bengong di awal
 print("[AutoPlaceV8-SELL OPTIMIZED] Boot: starting...")
 
 local _unpack = table.unpack or unpack
