@@ -1,3 +1,4 @@
+--Ini 96% jadi kurang bug selang seling dari script tersebut masih terdapat bug yaitu, script terlalu lama mikir di misal game #1 dia aman dan work totally fine after itu dia restart kan gamenya karena sudah selesai jadilah game #2 disini nih pasti rusak dan bengong setelah itu di game lekanjutnya misal game #3 script work kembali lalu game #4 disini nih pasti rusak dan bengong lagi, apakah bisa dibuat script bekerja dengan benar setiap game nya
 print("[AutoPlaceV8-SELL OPTIMIZED] Boot: starting...")
 
 local _unpack = table.unpack or unpack
