@@ -29,7 +29,7 @@ local scriptsByPlaceId = {
     [INGAME_PLACE_ID] = {
         --"https://github.com/LocasTheBoys/TamanSalju/raw/refs/heads/main/ANTI_AFK", --Begini juga bisa
         --"https://raw.githubusercontent.com/LocasTheBoys/TamanSalju/refs/heads/main/UpgradeV1",--upgrade
-        "https://raw.githubusercontent.com/LocasTheBoys/TamanSalju/refs/heads/main/PlaceFourLane_V26",--place unit 22
+        "https://raw.githubusercontent.com/LocasTheBoys/TamanSalju/refs/heads/main/PlaceFourLane_V28",--place unit 22
         "https://raw.githubusercontent.com/LocasTheBoys/TamanSalju/refs/heads/main/AutoReplay_Map_Salju_V1",-- replay, jalan, speed, skip
         "https://raw.githubusercontent.com/LocasTheBoys/TamanSalju/refs/heads/main/LowGrafik_V1",-- low
         "https://raw.githubusercontent.com/LocasTheBoys/TamanSalju/refs/heads/main/ANTI_AFK",
